@@ -1,0 +1,28 @@
+.searchword
+{
+	font-weight: bold;
+	color: #BA0000;
+}
+
+.searchresult
+{
+	margin-bottom: 15px;
+}
+
+.searchresult h2
+{
+	font-size: 15px;
+	margin-bottom: 3px;
+}
+
+.searchresult p
+{
+	margin: 0;
+	line-height: 20px;
+}
+
+.searchresultURL a
+{
+	color: green !important;
+	font-size: 11px;
+}

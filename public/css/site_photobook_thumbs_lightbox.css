@@ -1,0 +1,19 @@
+#photoLoader
+{
+	
+}
+
+.photoBox
+{
+	float: left;
+	width: 160px;
+	height: 170px;
+	line-height: 150px;
+	vertical-align: middle;
+	text-align: center;
+}
+
+#zoom
+{
+	z-index: 99;
+}

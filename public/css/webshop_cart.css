@@ -1,0 +1,174 @@
+#shoppingCart
+{
+
+}
+
+#webshopCartContentsAndPrice
+{
+    
+}
+
+#webshopCartProductCount
+{
+    
+}
+
+#webshopCartProductPrice
+{
+    
+}
+
+#webshopCartOrderGoToCart_Buttons
+{
+    
+}
+
+#webshopCartOrderButton_GoToCart
+{
+
+}
+
+#webshopCartContentsHolder
+{
+    
+}
+
+#webshopCartContentsHolder thead tr td
+{
+    
+}
+
+tr.cartline1
+{
+    
+}
+
+td.cartline1
+{
+    
+}
+
+tr.cartline0
+{
+    
+}
+
+td.cartline0
+{
+    
+}
+
+#webshopCartContentsHolder thead tr td.tdProduct
+{
+    
+}
+
+#webshopCartContentsHolder thead tr td.tdDeliverytime
+{
+    
+}
+
+#webshopCartContentsHolder thead tr td.tdQuantity
+{
+    
+}
+
+#webshopCartContentsHolder thead tr td.tdPrice
+{
+    text-align: right;
+}
+
+#webshopCartContentsHolder thead tr td.tdTotal
+{
+    text-align: right;
+}
+
+#webshopCartContentsHolder thead tr td.tdDelete
+{
+    
+}
+
+#webshopCartContentsHolder tbody tr td.tdProduct
+{
+    height: 110px;
+}
+
+#webshopCartContentsHolder tbody tr td.tdDeliverytime
+{
+    
+}
+
+#webshopCartContentsHolder tbody tr td.tdQuantity
+{
+    
+}
+
+#webshopCartContentsHolder tbody tr td.tdPrice
+{
+    width: 75px;
+}
+
+#webshopCartContentsHolder tbody tr td.tdTotal
+{
+    width: 75px;
+}
+
+#webshopCartContentsHolder tbody tr td.tdDelete
+{
+    
+}
+
+.cartProductImage
+{
+    float: left;
+    margin-right: 10px;
+}
+
+.cartProductTitleCode
+{
+    float: left;
+}
+
+.webshopCartDivider_ItemsTotals
+{
+    border-top: 1px solid black;
+    height: 1px;
+    line-height: 1px;
+}
+
+.webshopCartDivider_TotalsVAT
+{
+    border-bottom: 1px solid black;
+    height: 1px;
+    line-height: 1px;
+}
+
+.webshopCartTotalsIdentifier
+{
+    text-align: right;
+}
+
+.webshopCartTotalsValue
+{
+    text-align: right;
+}
+
+#shoppingcartOrderButtonHolder
+{
+    
+}
+
+#continueShoppingButton
+{
+    
+}
+
+#placeOrderFromCartButton
+{
+    
+}
+
+#shoppingCartDeliveryMultipleCountries
+{
+    
+}

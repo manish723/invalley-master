@@ -1,0 +1,31 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 230.88 208.3">
+    <defs>
+        <linearGradient id="linear-gradient" x1="1358.98" y1="794.31" x2="1470.69" y2="794.31"
+                        gradientTransform="matrix(0, 0.66, 1, 0, -653.09, -800.19)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#1c1c1c"/>
+            <stop offset="0.58" stop-color="#1a1a1a" stop-opacity="0.29"/>
+            <stop offset="1" stop-color="#191919" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="linear-gradient-2" x1="107.43" y1="114.06" x2="178.5" y2="42.99"
+                        gradientTransform="matrix(1, 0, 0, -1, 0, 210)" xlink:href="#linear-gradient"/>
+    </defs>
+    <title>Artboard 1</title>
+    <rect x="41.8" y="30.5" width="147.29" height="147.29" transform="translate(-39.83 112.13) rotate(-45)"
+          fill="#ed9f4a" opacity="0.2" style="isolation:isolate"/>
+    <rect x="41.14" y="28.95" width="113.14" height="163.25" transform="translate(-49.57 101.48) rotate(-45)"
+          fill="#ed9f4a" opacity="0.2" style="isolation:isolate"/>
+    <rect x="51.53" y="54.01" width="163.26" height="113.14" transform="translate(-39.19 126.54) rotate(-45)"
+          fill="#ed9f4a" opacity="0.2" style="isolation:isolate"/>
+    <rect x="85.36" y="93.71" width="111.71" height="73.4" transform="translate(-50.85 138.05) rotate(-45)"
+          opacity="0.1" fill="url(#linear-gradient)" style="isolation:isolate"/>
+    <path d="M171.29,104.15a55.78,55.78,0,1,1-2.12-15.29A55.78,55.78,0,0,1,171.29,104.15Z" fill="#fff"/>
+    <path d="M171.29,104.15a55.88,55.88,0,0,1-70.43,53.92l-19-19c-.26-.22-.53-.45-.78-.7a14.57,14.57,0,0,1,0-20.58l10.71-10.7a14.55,14.55,0,0,1,17.58-2.31l6.93-6.93a14.55,14.55,0,0,1,2.31-17.58l10.7-10.71a14.56,14.56,0,0,1,20-.49h0l.17.17.37.33c.13.12.22.25.34.37l18.9,18.9A56,56,0,0,1,171.29,104.15Z"
+          opacity="0.24" fill="url(#linear-gradient-2)" style="isolation:isolate"/>
+    <path d="M129,105.15a14.55,14.55,0,0,1-10.3-24.84h0c.44-.51,1-1.07,1.64-1.71l9-9A14.58,14.58,0,1,1,150,90.17l-9,9c-.64.64-1.2,1.2-1.71,1.64h0A14.46,14.46,0,0,1,129,105.15Zm-3.22-21.31h0L124,85.61a7.07,7.07,0,0,0,10,10l1.77-1.77,8.94-8.94a7.07,7.07,0,0,0-10-10Z"
+          fill="#fff"/>
+    <path d="M91.46,142.67a14.54,14.54,0,0,1-10.29-24.83h0l10.71-10.71a14.55,14.55,0,0,1,20.84,20.31l-.27.27-10.71,10.71A14.5,14.5,0,0,1,91.46,142.67Zm-5-19.53a7.07,7.07,0,0,0,10,10l10.71-10.71a7.07,7.07,0,0,0-10-10h0Z"
+          fill="#fff"/>
+    <path d="M102.59,120.74a3.75,3.75,0,0,1-2.65-6.39l25.69-25.69a3.75,3.75,0,1,1,5.3,5.3h0l-25.69,25.69A3.73,3.73,0,0,1,102.59,120.74Z"
+          fill="#fff"/>
+</svg>

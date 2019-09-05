@@ -1,0 +1,84 @@
+#contactform div
+{
+	float: left;
+	display: inline;
+}
+
+#contactform br
+{
+	clear: both;
+}
+
+#contactform .title
+{
+	clear: left;
+	font-weight: bold;
+	width: 125px;
+	line-height: 30px;
+}
+
+#contactform .title-long
+{
+	width: 225px !important;
+}
+
+#contactform .mandatory
+{
+	color: red;
+	padding-left: 5px;
+}
+
+#contactform .field
+{
+	width: 250px;
+	margin-bottom: 5px;
+}
+
+#contactform .field input[type="text"], 
+#contactform .field input[type="password"], 
+#contactform .field select, 
+#contactform .field textarea
+{
+	width: 240px;
+	margin-bottom: 10px;
+	padding: 0 5px;
+	border: 1px solid #bfbfbf;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	background: #ebebeb;
+	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZWJlYmViIiBzdG9wLW9wYWNpdHk9IjEiLz4KICAgIDxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjZjVmNWY1IiBzdG9wLW9wYWNpdHk9IjEiLz4KICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgPC9saW5lYXJHcmFkaWVudD4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI2dyYWQtdWNnZy1nZW5lcmF0ZWQpIiAvPgo8L3N2Zz4=);
+	background: -moz-linear-gradient(-45deg, #ebebeb 0%, #f5f5f5 50%, #ffffff 100%);
+	background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#ebebeb), color-stop(50%,#f5f5f5), color-stop(100%,#ffffff));
+	background: -webkit-linear-gradient(-45deg, #ebebeb 0%,#f5f5f5 50%,#ffffff 100%);
+	background: -o-linear-gradient(-45deg, #ebebeb 0%,#f5f5f5 50%,#ffffff 100%);
+	background: -ms-linear-gradient(-45deg, #ebebeb 0%,#f5f5f5 50%,#ffffff 100%);
+	background: linear-gradient(135deg, #ebebeb 0%,#f5f5f5 50%,#ffffff 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ebebeb', endColorstr='#ffffff',GradientType=1 );
+	font-size: 11px;
+	color: #313131;
+}
+
+#contactform .field input[type="text"], 
+#contactform .field input[type="password"], 
+#contactform .field select
+{
+	height: 30px;
+}
+
+#contactform .field textarea
+{
+	height: 200px;
+}
+
+#contactform .specification
+{
+	font-style: italic;
+	margin-bottom: 5px;
+}
+
+#contactform .specification .error
+{
+	font-weight: bold;
+	color: red;
+}

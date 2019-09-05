@@ -1,0 +1,47 @@
+.newsitem
+{
+	border-bottom: 1px solid black;
+	padding: 10px;
+}
+
+.newstitleHolder
+{
+	height: 25px;
+}
+
+.newsitem .newstitleHolder h1
+{
+	display: inline;
+	margin: 0;
+	padding: 0;
+	background: none;
+	font-size: 16px;
+	float: left;
+}
+
+.newsitem .newstitleHolder .newsdate
+{
+	color: #999999;
+	margin: 5px 0 10px 0;
+	float: right;
+}
+
+.newsitem .newstitleHolder .newsdate span
+{
+	color: #999999;
+}
+
+.newsitem .newstitleHolder .newsdate .time
+{
+	display: none;
+}
+
+.newsAttachment, a.newsAttachment:link, a.newsAttachment:active, a.newsAttachment:visited
+{
+	
+}
+
+a.newsAttachment:hover
+{
+	
+}

@@ -1,0 +1,112 @@
+/** Compare bar ***/
+#webshopProductCompareBarBottom
+{
+	width: 100%;
+	height: 120px;
+	background-color: yellow;
+	position: fixed;
+	bottom: 0;
+}
+
+#webshopProductCompareBarInner
+{
+	width: 800px;
+	margin: 0 auto;
+}
+
+#webshopCompareBarStaticText
+{
+	float: left;
+	width: 100px;
+	margin-right: 25px;
+	height: 120px;
+}
+
+.compareBarItem
+{
+	float: left;
+	width: 125px;
+	height: 120px;
+}
+
+.webshopProductCompareBarItem
+{
+	float: left;
+	width: 120px;
+	height: 120px;
+}
+
+.webshopProductCompareBarItemImage
+{
+
+}
+
+.webshopProductCompareBarItemtitle
+{
+
+}
+
+.webshopProductCompareBarItemtitle a
+{
+
+}
+
+.webshopProductCompareRemove
+{
+	width: 1px;
+	height: 1px;
+}
+
+a.webshopProductCompareRemoveA
+{
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	margin: -7px 0 0 -7px;
+}
+
+/*** Compare page ***/
+#webshopCompareFields
+{
+	float: left;
+	width: 150px;
+	background-color: silver;
+}
+
+#webshopCompareFieldSpacing
+{
+	height: 120px;
+}
+
+.webshopCompareField
+{
+	height: 30px;
+}
+
+#webshopCompareValues
+{
+	float: left;
+	width: 700px;
+	overflow: auto;
+}
+
+.webshopCompareValueBlock
+{
+	float: left;
+	width: 350px;
+}
+
+.webshopCompareValueBlock-1
+{
+	background-color: #dedede;
+}
+
+.webshopCompareValueBlockProductInformation
+{
+	height: 120px;
+}
+
+.webshopCompareValue
+{
+	height: 30px;
+}

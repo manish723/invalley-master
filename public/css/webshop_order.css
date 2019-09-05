@@ -1,0 +1,110 @@
+#webshopOrderLoginRegisterButtons
+{
+    
+}
+
+#webshopOrderLoginButton
+{
+    
+}
+
+#webshopOrderRegisterButton
+{
+    
+}
+
+#nextButton
+{
+    
+}
+
+#previousButton
+{
+    
+}
+
+#nextButtonTop
+{
+    
+}
+
+#previousButtonTop
+{
+    
+}
+
+.paymentChoiceHolder
+{
+    height: 50px;
+}
+
+.paymentChoiceHolder div
+{
+    float: left;
+    margin-right: 10px;
+    line-height: 50px;
+    height: 50px;
+    vertical-align: middle;
+}
+
+#payment_ideal
+{
+    
+}
+
+#payment_creditcard
+{
+    
+}
+
+#payment_automatic_debit
+{
+    
+}
+
+.paymentImage
+{
+    
+}
+
+.paymentCheckbox
+{
+    
+}
+
+.paymentName
+{
+    
+}
+
+.noPaymentChosenError
+{
+    color:red;
+    font-weight:bold;
+}
+
+#orderOverviewHolder
+{
+    width: 700px;
+}
+
+#orderOverviewHolder div
+{
+    width: 325px; 
+}
+
+#orderOverviewAddressAndMethods
+{
+    float: left;
+}
+
+#orderOverviewPaymentDetails
+{
+    float: right;
+}
+
+.shopOverviewHeader
+{
+    font-weight: bold;
+    margin-top: 10px;
+}

@@ -1,0 +1,27 @@
+#pb_left-lrkmg
+{
+    float: left;
+    width: 150px;
+    text-align: center;
+    line-height: 125px;
+}
+
+#right-lrkmg
+{
+    float: right;
+    width: 150px;
+    text-align: center;
+    line-height: 125px;
+}
+
+#pb_middle-lrkmg
+{
+    float: left;
+    width: 460px;
+    text-align: center;
+}
+
+.pb_link-lrkmg img
+{
+    
+}

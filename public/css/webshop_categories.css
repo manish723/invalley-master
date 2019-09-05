@@ -1,0 +1,88 @@
+/* Categorie-lijst */
+.webshop_category
+{
+
+}
+
+.webshop_category_image
+{
+
+}
+
+.webshop_category_image_hassubitems
+{
+
+}
+
+.webshop_category_image_hasnosubitems
+{
+
+}
+
+.webshop_category_link
+{
+
+}
+
+a.webshopCategoryLink, a.webshopCategoryLink:link, a.webshopCategoryLink:active, a.webshopCategoryLink:visited
+{
+
+}
+
+a.webshopCategoryLink:hover
+{
+
+}
+
+.webshopCategoryLinkActive
+{
+	font-weight: bold;
+}
+
+.webshop_subcategories
+{
+	padding-left: 20px;
+	display: none;
+}
+
+.webshop_subcategories_active
+{
+	display: block !important;
+}
+
+
+/* Category afbeeldingen */
+.webshopCategory
+{
+
+}
+
+.webshopCategoryHover
+{
+	background-color: silver;
+}
+
+.webshopCategoryTitle
+{
+	
+}
+
+.webshopCategoryImage
+{
+
+}
+
+.webshopCategoryImageNoImage
+{
+
+}
+
+a.webshopcategoryTextLink, a.webshopcategoryTextLink:link, a.webshopcategoryTextLink:active, a.webshopcategoryTextLink:visited
+{
+
+}
+
+a.webshopcategoryTextLink:hover
+{
+
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="gradient-with-blue-skew-up" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="982 -300.1 2560 1440" style="enable-background:new 982 -300.1 2560 1440;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F9F5ED;}
+	.st1{fill:#29A9C5;}
+	.st2{fill:url(#dawn-gradient_1_);}
+	.st3{opacity:0.65;fill:#5BB1B9;enable-background:new    ;}
+	.st4{fill:#FFFFFF;}
+</style>
+<title>bg-gradient</title>
+<g id="blue-skew-up">
+	<rect x="982" y="-300.1" class="st0" width="2560" height="1440"/>
+</g>
+<polygon class="st1" points="3619.8,192.6 969.9,348.3 919.5,-130.9 3569.5,-286.5 "/>
+<rect id="bg-color" x="727.7" y="-24.7" class="st1" width="3097.5" height="1089"/>
+<linearGradient id="dawn-gradient_1_" gradientUnits="userSpaceOnUse" x1="2276.4053" y1="599.1595" x2="2276.4053" y2="-308.3051" gradientTransform="matrix(1 0 0 -1 0 837.67)">
+	<stop  offset="0" style="stop-color:#E3C797;stop-opacity:0"/>
+	<stop  offset="1" style="stop-color:#E3C797"/>
+</linearGradient>
+<rect id="dawn-gradient" x="727.7" y="238.5" class="st2" width="3097.5" height="907.5"/>
+<g id="mountains">
+	<path id="mountain-bg-1" class="st3" d="M1459.7,264.2l881.8,881.8H727.7V996.2L1459.7,264.2z"/>
+	<path id="mountain-bg-2" class="st3" d="M1381,1146l745.6-745.6l745.6,745.6"/>
+	<path id="mountain-bg-3" class="st3" d="M2082.8,1146l771.3-771.3l771.3,771.3"/>
+	<path id="mountain-bg-4" class="st3" d="M3286.7,57l538.4,538.4V1146H2202.3L3286.7,57z"/>
+</g>
+<g id="stars">
+	<ellipse class="st4" cx="1959.4" cy="299.9" rx="2.4" ry="2.4"/>
+	<ellipse class="st4" cx="1607.3" cy="269.6" rx="2.7" ry="2.7"/>
+	<ellipse class="st4" cx="1448.8" cy="520.6" rx="2.7" ry="2.7"/>
+	<ellipse class="st4" cx="2204.8" cy="183.1" rx="3.6" ry="3.6"/>
+	<ellipse class="st4" cx="2765.9" cy="343.3" rx="2.7" ry="2.7"/>
+	<ellipse class="st4" cx="3027" cy="184.1" rx="2.7" ry="2.7"/>
+	<ellipse class="st4" cx="3007.1" cy="286" rx="2.7" ry="2.7"/>
+	<ellipse class="st4" cx="3380.6" cy="568.4" rx="1.4" ry="1.4"/>
+</g>
+</svg>

@@ -1,0 +1,102 @@
+#guestbookFormHolder br
+{
+	clear: both;
+}
+
+#guestbookFormHolder span
+{
+	clear: left;
+	float: left;
+	width: 100px;
+	font-weight: bold;
+}
+
+#guestbookFormHolder div
+{
+	float: left;
+	width: 400px;
+	margin-bottom: 5px;
+}
+
+#guestbookFormHolder p
+{
+	margin: 0;
+	color: red;
+	font-weight: bold;
+}
+
+#guestbookFormHolder .age
+{
+	width: 25px !important;
+}
+
+#guestbookFormHolder input, #guestbookFormHolder textarea, #guestbookFormHolder select
+{
+	border: 1px solid #B49E86;
+}
+
+#guestbookFormHolder input[type="text"], #guestbookFormHolder textarea
+{
+	width: 300px;
+}
+
+#guestbookMessages .msgHolder
+{
+	margin-bottom: 15px;
+	height: auto;
+	float: left;
+	border: 1px solid #B49E86;
+	padding: 10px;
+}
+
+#guestbookMessages .msgHolder br
+{
+	clear: both;
+}
+
+#guestbookMessages .msgHolder span
+{
+	float: left;
+	width: 100px;
+	font-weight: bold;
+}
+
+#guestbookMessages .msgHolder div
+{
+	float: left;
+	width: 400px;
+	margin-bottom: 5px;
+	overflow: visible;
+}
+
+.pageButton, a.pageButton:link, a.pageButton:active, a.pageButton:visited, a.pageButton
+{
+	display: block;
+	color: black;
+	background-color: silver;
+	height: 20px;
+	width: 20px;
+	line-height: 20px;
+	vertical-align: middle;
+	text-align: center;
+	float: left;
+	margin: 5px 5px 5px 0;
+	text-decoration: none;
+}
+
+a.pageButton:hover
+{
+	background-color: black;
+	color: white;
+}
+
+a.activeButton
+{
+	background-color: black !important;
+	color: white !important;
+}
+
+.break
+{
+	clear: both;
+}
