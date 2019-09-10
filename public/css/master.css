@@ -202,6 +202,12 @@
     margin-top: 10rem;
 }
 
+.bg-custom,
+footer.footer.footer-hero {
+    width: 100%;
+    z-index: 9;
+    position: relative;
+}
 
 
 @media (min-width: 1900px) {
