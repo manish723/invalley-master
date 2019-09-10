@@ -226,6 +226,12 @@ footer.footer.footer-hero {
   .m-maxscreen-height {
     height: 12rem !important;
   }
+  .dm-maxscreen-height {
+    height: 16rem !important;
+  }
+  .angle-devider-h{
+    top: -65vw;
+  }
   .full-header-bg {
       height: 820px;
   }

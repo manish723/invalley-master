@@ -17,6 +17,9 @@
         transform: skewY(-5deg);
         margin-top: 27px;
     }
+    .section p.blockquote{
+        color: #fff;
+    }
 </style>
 <div class="wrapper container header floatingOverHeader">
    <div class="col-12 col-md-8" style="float: right;">
@@ -86,7 +89,7 @@
     </div>
 </div>
 
-<div class="w-divider-highlight skew-down m-maxscreen-height" style="height: 10rem;">
+<div class="w-divider-highlight skew-down m-maxscreen-height dm-maxscreen-height" style="height: 10rem;">
     <div class="content">
         <a href="#" class="btn-continue">
             <i class="fa fa-angle-down fa-2x" aria-hidden="true"></i>
